@@ -15,6 +15,9 @@ A specific implementation is required on both platforms.
 
 ### How it looks
 
+![screenshot](https://github.com/allarddenis/xamarin-forms-ui-components/blob/master/screenshots/GradientView-IOS.png "gradientview-ios")
+![screenshot](https://github.com/allarddenis/xamarin-forms-ui-components/blob/master/screenshots/GradientView-ANDROID.png "gradientview-android")
+
 ### Associated Model
 
 Model class : __GradientViewModel.cs__
